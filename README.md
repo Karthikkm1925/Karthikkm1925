@@ -2,7 +2,7 @@
 
 <h2>🚀About me</h2>
 
-Passionate about **backend development**,specialized in **Java** and enjoy designing secure, high-performance applications using **Spring Boot**.
+Passionate **backend developer**,specialized in **Java** handson experience in designing secure, high-performance applications using **Spring Boot**.
 I’m on a constant journey to sharpen my skills in **Spring Security, DevOps, and system architecture**.
 
 **🔭 Currently Learning:** Spring Security, AWS cloud,Jenkins, Docker, Kubernetes<br>
@@ -25,13 +25,12 @@ I’m on a constant journey to sharpen my skills in **Spring Security, DevOps, a
 
 <h3>DevOps & Cloud</h3>
 
-**Containerization:** Docker (Learning)<br>
-**CI/CD & Automation:** GitHub,Jenkins (Learning)<br>
-**Cloud Platforms:** AWS Basics (Learning)<br>
-
+**Containerization:** Docker<br>
+**CI/CD & Automation:** GitHub,Jenkins<br>
+**Cloud (AWS):** EC2, S3, IAM, EBS, ASG, ELB/ALB, VPC, Route 53, CloudWatch, SNS, RDS, Lambda<br>
+**Version Control Tool**Git & GitHub<br>
 <h3>Other Tools & Technologies</h3>
 
-**Git & GitHub**<br>
 **Postman (API Testing)** <br>
 **HTML, CSS,JavaScript,React**<br>
 **C#,LINQ,EF-core,ASP.Net MVC**
