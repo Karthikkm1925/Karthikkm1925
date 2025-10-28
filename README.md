@@ -2,7 +2,7 @@
 
 <h2>🚀About me</h2>
 
-Passionate **backend developer**,specialized in **Java** handson experience in designing secure, high-performance applications using **Spring Boot**.
+Passionate **backend developer**,specialized in **Java** hands on experience in designing secure, high-performance web applications using **Spring Boot**.
 I’m on a constant journey to sharpen my skills in **Spring Security, DevOps, and system architecture**.
 
 **🔭 Currently Learning:** Spring Security, AWS cloud,Jenkins, Docker, Kubernetes<br>
@@ -28,12 +28,12 @@ I’m on a constant journey to sharpen my skills in **Spring Security, DevOps, a
 **Containerization:** Docker<br>
 **CI/CD & Automation:** GitHub,Jenkins<br>
 **Cloud (AWS):** EC2, S3, IAM, EBS, ASG, ELB/ALB, VPC, Route 53, CloudWatch, SNS, RDS, Lambda<br>
-**Version Control Tool**Git & GitHub<br>
+**Version Control Tool:** Git & GitHub<br>
 <h3>Other Tools & Technologies</h3>
 
 **Postman (API Testing)** <br>
 **HTML, CSS,JavaScript,React**<br>
-**C#,LINQ,EF-core,ASP.Net MVC**
+<!--**C#,LINQ,EF-core,ASP.Net MVC**-->
 
 <!--
 **Karthikkm1925/Karthikkm1925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
